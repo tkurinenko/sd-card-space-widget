@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Card Space Widget</string>
+    <string name="action_settings">Settings</string>
+    <string name="widget_name_Internal">Internal SD Card Space</string>
+    <string name="widget_name_External">External SD Card Space</string>
+
+    <string name="tvGbFree">tvGbFree</string>
+    <string name="tvStatusFree">FREE:</string>
+    <string name="tvStatusUsed">used</string>
+    <string name="tvStatusTotal">total</string>
+    <string name="tvGbTotal">tvGbTotal</string>
+    <string name="tvGBUsed">tvGBUsed</string>
+    <string name="tvExternalSD">External SD</string>
+    <string name="tvInternalSD">Internal SD</string>
+    <string name="blank"> </string>
+    <string name="tvBG">GB</string>
+
+
+
+</resources>
